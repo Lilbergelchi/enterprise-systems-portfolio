@@ -28,5 +28,5 @@ My role on the team is to contribute to system analysis, planning, and project c
 
 This section contains course materials and project artifacts developed during Phase 2.
 
-* Week 4 System Vision Artifact – available in the `artifacts` folder
+- [Week 4 System Vision Artifact](artifacts/week4-system-vision.pdf)
   
