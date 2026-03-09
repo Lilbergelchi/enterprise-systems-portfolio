@@ -1,28 +1,43 @@
-# enterprise-systems-portfolio
-Portfolio for enterprise systems course
+# AutoEnroll AI – Intelligent Course Registration System
 
+## Problem
 
-## Student Information
+Students at National Louis University often struggle with course registration and academic planning. 
+The current system requires students to navigate multiple disconnected platforms such as the student portal, advisor communication, and manual administrative processes.
 
-**Baiel Musaev**
-National Louis University
+As a result, students experience:
 
-## Project Overview
+- confusion about degree requirements
+- difficulty planning future semesters
+- scheduling conflicts
+- long advisor response times
 
-This repository serves as my portfolio for the Enterprise Systems course. It documents my understanding of the project, including the business problem being addressed, the system vision, my role on the team, and course artifacts developed throughout the project.
-
-## Problem Being Solved
-
-Many organizations face challenges such as inefficient workflows, disconnected systems, and limited visibility into their operational data. These issues can slow down decision-making and reduce overall productivity.
-The goal of this project is to explore how an enterprise system can help address these challenges by improving organization, communication, and operational efficiency.
+Many students rely on emails, spreadsheets, or classmates to understand the registration process.
 
 ## System Vision
 
-The vision of the proposed system is to create a centralized enterprise platform that integrates business processes and improves data accessibility. By bringing key functions into a single system, the platform aims to support better decision-making, streamline operations, and provide users with a more organized and efficient way to manage business activities.
+AutoEnroll AI is designed to simplify academic planning and course registration for undergraduate students.
 
-## My Role on the Team
+The system will provide:
 
-My role on the team is to contribute to system analysis, planning, and project communication. I participate in defining the business problem, supporting the system vision, organizing project materials, and clearly documenting project ideas and learning outcomes. This portfolio represents my individual understanding and contributions to the project.
+- a centralized academic planning platform
+- automatic generation of conflict-free schedules
+- course recommendations based on degree requirements
+- real-time prerequisite and scheduling conflict detection
+- simplified course registration
+
+The goal of the system is to reduce student stress, improve registration efficiency, and support better academic planning.
+
+## My Role
+
+I am a member of the **Delta Team** responsible for contributing to:
+
+- problem analysis
+- system vision development
+- requirements definition
+- documentation of system artifacts
+
+This repository serves as my professional portfolio for the Enterprise Systems course and demonstrates my ability to analyze problems, design systems, and communicate technical ideas clearly.
 
 ## Course Artifacts
 
